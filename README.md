@@ -1,1 +1,1 @@
-# cinnamoplus
+# cinnamonplus
